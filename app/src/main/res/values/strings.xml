@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name" translatable="false">Pop Movies</string>
+
+    <!-- Main Activity -->
+    <string name="no_movies_message">No movies available.</string>
+    <string name="movie_image_description">Movie image</string>
+
+    <!-- Main Activity - Menu -->
+    <string name="menu_sort_by_popular">Most popular</string>
+    <string name="menu_sort_by_top_rated">Highest rated</string>
+    <string name="menu_sort_by_favorites">Favorites</string>
+
+    <!-- Movie detail -->
+    <string name="trailers_label">Trailers</string>
+    <string name="no_trailers">There are no trailers for this movie.</string>
+    <string name="play_icon_description">Play icon</string>
+    <string name="reviews_label">Reviews</string>
+    <string name="divider_line_description">Divider line</string>
+    <string name="no_reviews">There are no reviews yet.</string>
+    <string name="favorite_icon_description">Favorite star icon</string>
+</resources>

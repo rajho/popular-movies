@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_movies_message">No hay peliculas disponibles.</string>
+    <string name="movie_image_description">Poster de película</string>
+    <string name="menu_sort_by_popular">Mas populares</string>
+    <string name="menu_sort_by_top_rated">Mejores calificadas</string>
+    <string name="no_trailers">No hay avances para esta película.</string>
+    <string name="trailers_label">Trailers</string>
+    <string name="play_icon_description">Icono reproducir</string>
+    <string name="reviews_label">Comentarios</string>
+    <string name="divider_line_description">Linea divisoria</string>
+    <string name="no_reviews">No hay comentarios por ahora.</string>
+    <string name="favorite_icon_description">Icono estrella favorito</string>
+    <string name="menu_sort_by_favorites">Favoritos</string>
+</resources>
